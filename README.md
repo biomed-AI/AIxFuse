@@ -5,18 +5,18 @@ Our paper published as a back cover article in Chemical Science:
 ## Environment
 `conda env create -f env.yml`   
 , then run `conda activate aixfuse`    
-DGLlife with pytorch:    
+**DGLlife with pytorch:**    
 `pip3 install  dgl -f https://data.dgl.ai/wheels/torch-2.4/cu121/repo.html`    
 , or refer to [DGL official](https://www.dgl.ai/pages/start.html) to specify your cuda version et al.   
 , then run `pip3 install  dgllife`   
-PLIP:   
+**PLIP**:   
 `apt install libopenbabel-dev`    
 `pip3 install openbabel`    
 , if error occurs like `Error: SWIG failed. Is Open Babel installed?`    
 , then run `apt install swig`    
 , if it still fail, refer to [openbabel issue](https://github.com/openbabel/openbabel/issues/2408)   
 , then run `pip3 install plip`    
-MOSES:   
+**MOSES:**   
 `pip3 install molsets`     
 , if error occurs like `ERROR: Failed building wheel for pomegranate`    
 , run `git clone git@github.com:molecularsets/moses.git`
