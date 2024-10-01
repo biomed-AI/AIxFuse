@@ -12,16 +12,16 @@ Our paper published as a back cover article in Chemical Science:
 **PLIP**:   
 `apt install libopenbabel-dev`    
 `pip3 install openbabel`    
-, if error occurs like `Error: SWIG failed. Is Open Babel installed?`    
-, then run `apt install swig`    
-, if it still fail, refer to [openbabel issue](https://github.com/openbabel/openbabel/issues/2408)   
+, if error occurs like `Error: SWIG failed. Is Open Babel installed?`:    
+* run `apt install swig`    
+* if it still fail, refer to [openbabel issue](https://github.com/openbabel/openbabel/issues/2408)   
 , then run `pip3 install plip`    
 **MOSES:**   
 `pip3 install molsets`     
 , if error occurs like `ERROR: Failed building wheel for pomegranate`:    
-&ensp    run `git clone git@github.com:molecularsets/moses.git`    
-&ensp     , then run `cd moses`    
-&ensp     , then run `python setup.py install`    
+* run `git clone git@github.com:molecularsets/moses.git`    
+* , then run `cd moses`    
+* , then run `python setup.py install`    
 ## Download Data (too large for github)
 Contact [My Email](chensh88@mail2.sysu.edu.cn)
 ## Pharmacophore Extraction
