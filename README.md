@@ -23,7 +23,7 @@ MOSES:
 , `cd moses`
 , `python setup.py install`
 ## Download Data (too large for github)
-
+Contact [My Email](chensh88@mail2.sysu.edu.cn)
 ## Pharmacophore Extraction
 Run `pharmacophore_extr.ipynb`
 ## Generate Molecules by Our Final Agent
