@@ -19,9 +19,9 @@ Our paper published as a back cover article in Chemical Science:
 **MOSES:**   
 `pip3 install molsets`     
 , if error occurs like `ERROR: Failed building wheel for pomegranate`:    
-    run `git clone git@github.com:molecularsets/moses.git`    
-    , then run `cd moses`    
-    , then run `python setup.py install`    
+&ensp    run `git clone git@github.com:molecularsets/moses.git`    
+&ensp     , then run `cd moses`    
+&ensp     , then run `python setup.py install`    
 ## Download Data (too large for github)
 Contact [My Email](chensh88@mail2.sysu.edu.cn)
 ## Pharmacophore Extraction
