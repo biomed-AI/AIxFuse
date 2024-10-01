@@ -1,0 +1,7 @@
+data/logs
+data/models
+data/outputs
+data/predictor
+data/temp_data
+utils/docking
+utils/ligpre
