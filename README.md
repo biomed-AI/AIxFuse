@@ -25,7 +25,9 @@ Our paper published as a back cover article in Chemical Science:
 * , then run `python setup.py install`    
 
 ## Download Data (too large for github)
-Contact [My Email](chensh88@mail2.sysu.edu.cn)
+[NetDisk Link](https://pan.baidu.com/s/1W8ua8FsQo6QOTuIM8QPSxA?pwd=866p)
+, fetch code：866p 
+, or contact [My Email](chensh88@mail2.sysu.edu.cn)
 ## Pharmacophore Extraction
 Run `pharmacophore_extr.ipynb`
 ## Generate Molecules by Our Final Agent
