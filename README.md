@@ -25,10 +25,8 @@ Our paper published as a back cover article in Chemical Science:
 * , then run `python setup.py install`    
 
 ## Download Data (too large for github)
-[Google Drive](https://drive.google.com/file/d/1n68ts2pW_voUYAIDwds4OOBEG3MP1fJl/view?usp=drive_link)  
-or  
-[BaiduNetDisk](https://pan.baidu.com/s/1W8ua8FsQo6QOTuIM8QPSxA?pwd=866p)
-, fetch code：866p 
+by [Google Drive](https://drive.google.com/file/d/1n68ts2pW_voUYAIDwds4OOBEG3MP1fJl/view?usp=drive_link)  
+, or by [BaiduNetDisk](https://pan.baidu.com/s/1W8ua8FsQo6QOTuIM8QPSxA?pwd=866p), fetch code：866p  
 , or contact [My Email](chensh88@mail2.sysu.edu.cn)
 ## Pharmacophore Extraction
 Run `pharmacophore_extr.ipynb`
